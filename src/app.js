@@ -1,7 +1,6 @@
 import $ from "jquery"
 import THREE from "three"
 import createOrbitControls from "three-orbit-controls"
-import dat from "dat-gui"
 
 let OrbitControls = createOrbitControls(THREE);
 
@@ -48,8 +47,9 @@ let guiState = {
   millionYearsAgo: 0,
 };
 
-let gui = new dat.GUI();
-gui.add(guiState, 'millionYearsAgo', 0, 750);
+$('#maInput').on('change input', evt => {
+  guiState.millionYearsAgo = evt.target.value;
+}).change();
 
 // Locate map entry given Ma via binary search
 function mapFromMa(ma) {
