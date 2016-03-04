@@ -1,14 +1,28 @@
 Paleogeographic mapping from:
 
-	http://cpgeosystems.com/paleomaps.html
+	http://phl.upr.edu/projects/visual-paleo-earth/
 
 Terms of use from that page:
 
-	All maps in this library are copyrighted to me, Ron Blakey and Colorado
-	Plateau Geosystems Inc. The maps and DVD's available on this website are
-	licensed for general academic use by teachers, students, and those interested in
-	the history of the earth. They may be used for general reference, research,
-	academic papers, journals, scholarly publications, talks and poster sessions.
-	For more details, please see the Products page. Please do not post on a website
-	or YouTube without contacting Dee Blakey at dblakey@cpgeosystems.com.
+	... the images are freely available for education and research. If you
+	use them please credit: The Planetary Habitability Laboratory @ UPR
+	Arecibo, NASA, Ron Blakey and Colorado Plateau Geosystems, Inc., and The
+	PaleoMap Project.
+
+And:
+
+	The content of The Planetary Habitability Laboratory (PHL) website,
+	which includes text, images, animations, videos, and data, can be copied,
+	distributed, transmitted, and adapted under the following conditions:
+
+		You must attribute the content as Credit: The Planetary
+		Habitability Laboratory @ UPR Arecibo (phl.upra.edu) or just PHL
+		@ UPR Arecibo (but not in any way that suggests that we endorse
+		you or your use of the content).
+
+		You may not use this content for commercial purposes.
+
+		If you alter, transform, or build upon this content, you may
+		distribute the resulting content only under the same or similar
+		license to this one.
 

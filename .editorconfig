@@ -1,0 +1,6 @@
+root=true
+
+[*.{js,jsx,css,html,json,glsl}]
+indent_style=space
+indent_size=2
+
