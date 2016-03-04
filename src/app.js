@@ -95,7 +95,6 @@ let globeLeftUrl = null, globeRightUrl = null, fetching = false;
 function setMapMa(ma) {
   let { left, right, alpha } = mapFromMa(ma);
   if((left.url !== globeLeftUrl) || (right.url !== globeRightUrl)) {
-    console.log(globeLeftUrl, left.url, globeRightUrl, right.url);
     if(fetching) { return; }
     fetching = true;
     Promise.all([loadTexture(left.url), loadTexture(right.url)]).then(vals => {
